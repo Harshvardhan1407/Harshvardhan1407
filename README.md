@@ -141,16 +141,6 @@ Here are some ideas to get you started:
 <th>Nmap</th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="/sammorozov/sammorozov/blob/main/assets/meta.png"><img src="/sammorozov/sammorozov/raw/main/assets/meta.png" alt="msf" width="85" height="55" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="/sammorozov/sammorozov/blob/main/assets/Wireshark_icon.svg.png"><img src="/sammorozov/sammorozov/raw/main/assets/Wireshark_icon.svg.png" alt="wsh" width="55" height="55" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="/sammorozov/sammorozov/blob/main/assets/burp.svg"><img src="/sammorozov/sammorozov/raw/main/assets/burp.svg" alt="burp" width="85" height="55" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="/sammorozov/sammorozov/blob/main/assets/netcat_logo_shadow.svg"><img src="/sammorozov/sammorozov/raw/main/assets/netcat_logo_shadow.svg" alt="netcat" width="55" height="55" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="/sammorozov/sammorozov/blob/main/assets/nmap-logo.svg"><img src="/sammorozov/sammorozov/raw/main/assets/nmap-logo.svg" alt="nmap" width="55" height="55" style="max-width: 100%;"></a></td>
-</tr>
-</tbody>
-</table></markdown-accessiblity-table>
  
 </div>
 <p align="center">
