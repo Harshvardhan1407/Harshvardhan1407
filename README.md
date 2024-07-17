@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div dir="auto">
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Languages:</h3><a id="user-content-languages" class="anchor" aria-label="Permalink: Languages:" href="#languages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<markdown-accessiblity-table data-catalyst=""><table>
 </table></markdown-accessiblity-table>
 <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Languages and main libraries:</h3><a id="user-content-best-frameworks-and-main-libraries-for-python3" class="anchor" aria-label="Permalink: Best frameworks and main libraries for Python3:" href="#best-frameworks-and-main-libraries-for-python3"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <markdown-accessiblity-table data-catalyst=""><table>
@@ -64,8 +62,8 @@ Here are some ideas to get you started:
 <th>Jupyter</th>
 <th>Spark</th>
 <th>MySQL</th>
-<th>Postgres</th>
-<th>SQLite</th>
+<th>MongoDB</th>
+<th>seaborn</th>
 <th>Plotly</th>
 <th>Matpltlib</th>
 </tr>
@@ -76,7 +74,7 @@ Here are some ideas to get you started:
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55" style="max-width: 100%;"></a></td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55" style="max-width: 100%;"></a></td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55" style="max-width: 100%;"></a></td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55" style="max-width: 100%;"></a></td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55" style="max-width: 100%;"></a></td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55" style="max-width: 100%;"></a></td>
