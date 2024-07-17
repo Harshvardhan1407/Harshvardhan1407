@@ -1,5 +1,20 @@
-## Hi there 👋
+<!--## Hi there 👋
+-->
+# Data Engineer & AI Enthusiast
 
+👨‍💻 Professional Data Engineer with expertise in:
+
+- 🐍 Python
+- 📊 Data Analysis: NumPy, Pandas, Matplotlib
+- 🔄 ETL Pipelines
+- 🗄️ Databases: MySQL, MongoDB
+- 🧠 Machine Learning: Scikit-learn
+- 🔬 Data Science: Feature Engineering, EDA
+- 🤖 AI: Gen-AI, LLMs, AI Tools
+
+Passionate about transforming raw data into actionable insights and building robust data pipelines. Experienced in the full data lifecycle from ingestion to model training.
+
+Let's connect and collaborate on data-driven projects!
 <!--
 **Harshvardhan1407/Harshvardhan1407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
