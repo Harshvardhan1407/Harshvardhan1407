@@ -94,26 +94,12 @@ Here are some ideas to get you started:
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55" style="max-width: 100%;"></a></td>
 </td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d152061e1371a762bf45b303e9319845858d37c095a64850e804a05bdd3d9020/68747470733a2f2f62616e6e6572322e636c65616e706e672e636f6d2f32303139303530312f7876742f6b697373706e672d636f6d70757465722d69636f6e732d7669727475616c626f782d706f727461626c652d6e6574776f726b2d677261706869632d7669727475616c626f782d69636f6e2d6f662d6c696e652d7374796c652d617661696c61626c652d696e2d7376672d35636361323437663733663965332e363131323732313131353536373531343837343735312e6a7067"><img src="https://camo.githubusercontent.com/d152061e1371a762bf45b303e9319845858d37c095a64850e804a05bdd3d9020/68747470733a2f2f62616e6e6572322e636c65616e706e672e636f6d2f32303139303530312f7876742f6b697373706e672d636f6d70757465722d69636f6e732d7669727475616c626f782d706f727461626c652d6e6574776f726b2d677261706869632d7669727475616c626f782d69636f6e2d6f662d6c696e652d7374796c652d617661696c61626c652d696e2d7376672d35636361323437663733663965332e363131323732313131353536373531343837343735312e6a7067" title="Postman" alt="Postman" width="55" height="55" data-canonical-src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
 <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">OS:</h3><a id="user-content-os" class="anchor" aria-label="Permalink: OS:" href="#os"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <markdown-accessiblity-table data-catalyst=""><table>
-<thead>
-</tbody>
-</table></markdown-accessiblity-table>
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Tools for CTF's</h3><a id="user-content-tools-for-ctfs" class="anchor" aria-label="Permalink: Tools for CTF's" href="#tools-for-ctfs"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<markdown-accessiblity-table data-catalyst=""><table>
-<thead>
-<tr>
-<th>Metasploit</th>
-<th>Wireshark</th>
-<th>Burpsuite</th>
-<th>Netcat</th>
-<th>Nmap</th>
-</tr>
-</thead>
+
  
 </div>
 <p align="center">
