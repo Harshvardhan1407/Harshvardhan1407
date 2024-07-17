@@ -1,10 +1,10 @@
 <!--## Hi there 👋
 -->
 # Data Engineer & AI Enthusiast
-About Me
+# About Me
 I am a dedicated and experienced Data Engineer specializing in the end-to-end process of data handling and analysis. My skill set includes extensive knowledge and hands-on experience with various tools and technologies essential for modern data engineering.
 
-Current Focus
+# Current Focus
 Currently, I am working on developing and optimizing data pipelines, as well as implementing advanced AI tools to enhance data processing and analysis. I am also exploring the latest trends in generative AI and LLMs to apply cutting-edge solutions in my projects.
 👨‍💻 Professional Data Engineer with expertise in:
 
