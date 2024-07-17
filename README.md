@@ -165,9 +165,9 @@ Here are some ideas to get you started:
 </p>
 
 <br />
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshvardhan1407&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan1407&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshvardhan1407&show_icons=true&theme=tokyonight)
 
 
 ## 🧰 Languages and Tools:
