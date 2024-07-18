@@ -113,7 +113,7 @@ Here are some ideas to get you started:
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan1407&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
-<br />
+
 <!--
 <p align="center">
  <a href="https://https://github.com/Harshvardhan1407/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
